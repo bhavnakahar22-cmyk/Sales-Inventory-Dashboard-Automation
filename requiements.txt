@@ -1,7 +1,8 @@
+streamlit
 pandas
 numpy
-openpyxl
-matplotlib
-streamlit
-sqlite3
 plotly
+requests
+scikit-learn
+streamlit-autorefresh
+reportlab
